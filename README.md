@@ -72,21 +72,31 @@ __1. Have total emissions from PM2.5 decreased in the United States from 1999 to
 
 ### Question 2
 
+__2.Have total emissions from PM2.5 decreased in the Baltimore City, Maryland (fips == "24510") from 1999 to 2008? Use the base plotting system to make a plot answering this question.__
+
 ![plot of chunk plot2](figure/plot2.png) 
 
 ### Question 3
+
+__3. Of the four types of sources indicated by the type (point, nonpoint, onroad, nonroad) variable, which of these four sources have seen decreases in emissions from 1999–2008 for Baltimore City? Which have seen increases in emissions from 1999–2008? Use the ggplot2 plotting system to make a plot answer this question.__
 
 ![plot of chunk plot3](figure/plot3.png) 
 
 ### Question 4
 
+__4. Across the United States, how have emissions from coal combustion-related sources changed from 1999–2008?__
+
 ![plot of chunk plot4](figure/plot4.png) 
 
 ### Question 5
 
+__5. How have emissions from motor vehicle sources changed from 1999–2008 in Baltimore City?__
+
 ![plot of chunk plot5](figure/plot5.png) 
 
 ### Question 6
+
+__6. Compare emissions from motor vehicle sources in Baltimore City with emissions from motor vehicle sources in Los Angeles County, California (fips == "06037"). Which city has seen greater changes over time in motor vehicle emissions?
 
 ![plot of chunk plot6](figure/plot6.png) 
 
