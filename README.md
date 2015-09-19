@@ -68,11 +68,13 @@ You must address the following questions and tasks in your exploratory analysis.
 
 __1. Have total emissions from PM2.5 decreased in the United States from 1999 to 2008? Using the base plotting system, make a plot showing the total PM2.5 emission from all sources for each of the years 1999, 2002, 2005, and 2008.__
 
+
 ![plot of chunk plot1](figure/plot1.png) 
 
 ### Question 2
 
 __2.Have total emissions from PM2.5 decreased in the Baltimore City, Maryland (fips == "24510") from 1999 to 2008? Use the base plotting system to make a plot answering this question.__
+
 
 ![plot of chunk plot2](figure/plot2.png) 
 
